@@ -13,4 +13,7 @@
 
 # Домашние задания
 
-Все домашние задания будут выложены на платформе [Вышка.Онлайн](https://learnonline.hse.ru/course/view.php?id=6719).
+Все домашние задания выкладываются на платформе [Вышка.Онлайн](https://learnonline.hse.ru/course/view.php?id=6719).
+
+* [Обязательное домашнее задание 1](https://learnonline.hse.ru/mod/quiz/view.php?id=508632)
+* [Необязательное домашнее задание после занятий 1 и 2](https://learnonline.hse.ru/mod/quiz/view.php?id=508631)
